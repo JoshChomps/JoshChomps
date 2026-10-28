@@ -15,14 +15,6 @@ Most of what I write is Python, with C++, Rust and TypeScript when the job needs
   <img alt="Fusion" src="https://img.shields.io/badge/Fusion-1f2937?style=flat-square&logo=autodesk&logoColor=white">
 </p>
 
-## Contact
-
-| | |
-|---|---|
-| **GitHub-related email** | [joshchomiak@gmail.com](mailto:joshchomiak@gmail.com) (about my repositories and code) |
-| **Website** | [joshchomiak.com](https://joshchomiak.com) |
-| **LinkedIn** | [linkedin.com/in/josh-chomiak](https://www.linkedin.com/in/josh-chomiak) |
-
 ## Projects
 
 ### Hardware and robotics
