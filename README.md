@@ -20,6 +20,7 @@ Based in Vancouver, BC. Most of what I write is Python, with C++ and TypeScript 
 | | |
 |---|---|
 | **GitHub-related email** | [joshchomiak@gmail.com](mailto:joshchomiak@gmail.com) (about my repositories and code) |
+| **Website** | [joshchomiak.com](https://joshchomiak.com) |
 | **LinkedIn** | [linkedin.com/in/josh-chomiak](https://www.linkedin.com/in/josh-chomiak) |
 
 ## What I work on
