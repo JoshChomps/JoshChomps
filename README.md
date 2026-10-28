@@ -15,6 +15,13 @@ Based in Vancouver, BC. Most of what I write is Python, with C++ and TypeScript 
   <img alt="Fusion" src="https://img.shields.io/badge/Fusion-1f2937?style=flat-square&logo=autodesk&logoColor=white">
 </p>
 
+## Contact
+
+| | |
+|---|---|
+| **GitHub-related email** | [joshchomiak@gmail.com](mailto:joshchomiak@gmail.com) (about my repositories and code) |
+| **LinkedIn** | [linkedin.com/in/josh-chomiak](https://www.linkedin.com/in/josh-chomiak) |
+
 ## What I work on
 
 | Area | Project | What it is |
