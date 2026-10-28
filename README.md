@@ -43,7 +43,7 @@ Most of what I write is Python, with C++, Rust and TypeScript when the job needs
 
 | Project | What it is |
 |---|---|
-| [**Stupefinity**](https://github.com/JoshChomps/Stupefinity) | A native, lightweight Windows 11 music player for Spotify Premium, written in Rust. The whole app runs in under 10 MB of memory. |
+| [**Stupefinity**](https://github.com/JoshChomps/stupefinity) | A native, lightweight Windows 11 music player for Spotify Premium, written in Rust. The whole app runs in under 10 MB of memory. |
 | [**Scraper**](https://github.com/JoshChomps/Scraper) | A self-hosted extraction tool that reads REIT financial statements out of annual-report PDFs, one record per figure, each checked against the page's own arithmetic. |
 | [**Job-hunter**](https://github.com/JoshChomps/Job-hunter) | Pulls job postings from boards and company ATS feeds into one database, filters them hard, checks visa sponsorship rules, and tracks applications. |
 | [**AI_Library**](https://github.com/JoshChomps/AI_Library) | Kinesis, a low-level C++20 maths and ML engine aimed at fixed-latency work. CPU kernels exist; the domain modules are planned. |
