@@ -21,6 +21,7 @@ Most of what I write is Python, with C++, Rust and TypeScript when the job needs
 
 | Project | What it is |
 |---|---|
+| [**Kinesis**](https://github.com/JoshChomps/Kinesis) | Hardware co-design research framework for extreme sub-2-bit inference & training. Fuses online Kronecker Walsh-Hadamard rotations with branchless PTX Tensor Core unpackers, in-SRAM QAT, 256-bit AVX2 T-MAC GotoBLAS kernels, and closed-loop heterogeneous CPU/GPU/memory runtimes. |
 | [**Kairo**](https://github.com/JoshChomps/Kairo) | An MCP server that turns a described circuit into a checked KiCad schematic. Every voltage and current is worked out twice, by cited formulas and by ngspice/Xyce simulation, and anything unchecked is marked unverified. |
 | [**7_DOF_Arm**](https://github.com/JoshChomps/7_DOF_Arm) | A mostly 3D-printed, 7-axis desk arm with swappable end effectors. Modelled and checked in Fusion by script, with a software digital twin running in simulation. |
 
@@ -38,7 +39,6 @@ Most of what I write is Python, with C++, Rust and TypeScript when the job needs
 | [**Stupefinity**](https://github.com/JoshChomps/stupefinity) | A native, lightweight Windows 11 music player for Spotify Premium, written in Rust. The whole app runs in under 10 MB of memory. |
 | [**Scraper**](https://github.com/JoshChomps/Scraper) | A self-hosted extraction tool that reads REIT financial statements out of annual-report PDFs, one record per figure, each checked against the page's own arithmetic. |
 | [**Job-hunter**](https://github.com/JoshChomps/Job-hunter) | Pulls job postings from boards and company ATS feeds into one database, filters them hard, checks visa sponsorship rules, and tracks applications. |
-| [**AI_Library**](https://github.com/JoshChomps/AI_Library) | Kinesis, a low-level C++20 maths and ML engine aimed at fixed-latency work. CPU kernels exist; the domain modules are planned. |
 | [**CUDA_Translator**](https://github.com/JoshChomps/CUDA_Translator) | A prototype that translates PTX into an intermediate representation and lowers it to AMD ROCm and Vulkan SPIR-V. |
 
 ### Markets and research
