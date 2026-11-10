@@ -64,7 +64,7 @@ Anything not listed here is experimentation and fluff of my own machinations.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JoshChomps&show_icons=true&hide_border=true&theme=transparent&title_color=9ca3af&text_color=9ca3af&icon_color=9ca3af">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JoshChomps&show_icons=true&hide_border=true&theme=transparent&title_color=4b5563&text_color=4b5563&icon_color=4b5563">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=JoshChomps&show_icons=true&hide_border=true&theme=transparent&title_color=9ca3af&text_color=9ca3af&icon_color=9ca3af">
+    <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=JoshChomps&show_icons=true&hide_border=true&theme=transparent&title_color=4b5563&text_color=4b5563&icon_color=4b5563">
   </picture>
 </p>
