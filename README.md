@@ -62,7 +62,7 @@ Anything not listed here is experimentation and fluff of my own machinations.
 
 - I write down what a result would have to look like before I run the test, then report the result either way.
 - Numbers get a source or a measurement. If I could not check something, the docs say so.
-- Small, readable code over clever code.
+- Functional execution, documented design over clever code.
 
 <p align="center">
   <picture>
