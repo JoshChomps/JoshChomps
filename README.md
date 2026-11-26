@@ -52,7 +52,7 @@ Most of what I write is Python, with C++, Rust and TypeScript when the job needs
 
 | Project | What it is |
 |---|---|
-| [**Gravity-well-sim**](https://github.com/JoshChomps/Gravity-well-sim) | 3D planetary simulation where gravity is drawn as wells. Also a [WebGL version](https://github.com/JoshChomps/Gravity-well-sim-web) and a [3D grid version](https://github.com/JoshChomps/Gravity-sim-3D-grid). |
+| [**Gravity-well-sim**](https://github.com/JoshChomps/Gravity-well-sim) | 3D planetary simulation where gravity is drawn as curvature, either a sheet bent into wells or a warped 3D grid. One Rust codebase runs on the desktop and [in the browser](https://joshchomps.github.io/Gravity-well-sim/) (WebAssembly), replacing three separate Python and JavaScript versions; its physics matches the Python original exactly in tests. |
 | [**OKMR Hydrofoil Simulation**](https://github.com/JoshChomps/Hydrofoil) | A simulation of a student led and deisgned hydrofoil craft. The project features accurate physics constraints,  a complex PID-LQR hybrid control system, 6DOF, autocalibration based on custom physical constraints and more |
 
 
